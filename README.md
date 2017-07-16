@@ -4,4 +4,4 @@ Simple comparison of time needed by individual implementations of sorting algori
 
 Result: 
 
-![result](http://imgur.com/a/dyII8)
+http://imgur.com/a/dyII8
