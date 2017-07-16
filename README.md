@@ -4,4 +4,4 @@ Simple comparison of time needed by individual implementations of sorting algori
 
 Result: 
 
-![alt text](https://raw.githubusercontent.com/ashok133/Sort-Benchmarking/Screen Shot 2017-06-16 at 8.57.01 PM.jpg)
+![result](http://imgur.com/a/dyII8)
